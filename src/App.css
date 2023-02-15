@@ -1,0 +1,49 @@
+body{
+
+  text-align: center;
+  justify-content: center; 
+  align-items: center;
+  margin: 0%;
+  padding: 8px;
+
+  
+}
+body{
+  background-color: beige;
+}
+h1{
+  background-color: rgba(0, 0, 0, 0.392);
+  color: aliceblue;
+  padding: 10px;
+}
+button{
+  background-color: brown;
+  color: white;
+  padding: 15px 50px;
+  border-radius: 10px;
+}
+input{
+margin: 16px;
+padding: 5px;
+}
+.data{
+  display: flex;
+  
+  flex-direction: column;
+  align-items: center;
+  margin-top: 80px;
+  width: 100%;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 10px;
+  
+}
+.data_val{
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+ 
+}
+
+
+
+  
